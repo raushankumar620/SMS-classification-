@@ -3,8 +3,7 @@
 This project focuses on classifying SMS messages as **Spam** or **Ham (Not Spam)** using various machine learning models and text processing techniques in Python. The pipeline includes preprocessing, exploratory data analysis, vectorization, model training, evaluation, and model saving.
 
 ---
-
-## 📁 Project Steps Summary
+  <h3> Project Steps Summary <h3/>
 
 1. **Reading and Understanding the Data**  
    - Load dataset using `pandas`
